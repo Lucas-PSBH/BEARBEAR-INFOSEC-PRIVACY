@@ -7,5 +7,18 @@ Este repositório apresenta a **Política Geral de Segurança da Informação (P
 ---
 
 ## 📂 Estrutura dos Documentos
-
+bearbear-pgsi/
+│
+├── README.md
+├── documentos/
+│ ├── PGSI-BEARBEAR-v1.docx
+│ └── PGSI-BEARBEAR-v1.pdf
+│
+├── normas-complementares/
+│ ├── Norma-Classificacao-Informacao.docx
+│ ├── Norma-Controle-Acesso.docx
+│ └── ... (em desenvolvimento)
+│
+└── glossario/
+└── Glossario-BEARBEAR.md
 
