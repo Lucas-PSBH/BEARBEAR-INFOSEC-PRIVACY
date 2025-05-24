@@ -17,7 +17,7 @@ The objective is to demonstrate practical knowledge of **ISO/IEC 27001**, **ISO/
 ## 📘 Documentos principais | Main Documents
 
 - 📄 [PGSI-BEARBEAR-DOCX](documentos/pgsi-bearbear-v1.docx)
-- 📄 [PGSI-BEARBEAR-PDF](PGSI/PGSI - BEAR BEAR.pdf)  
+- 📄 [PGSI/PGSI - BEAR BEAR.pdf](PGSI)  
 - 🧾 [Política de Privacidade / Privacy Policy (PDF)](documentos/politica-privacidade-bearbear-v1.pdf)
 
 ---
