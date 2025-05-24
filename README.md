@@ -61,5 +61,5 @@ Nenhum dado sensível real ou informação de empresa existente foi utilizado.
 ## 👤 Contato
 
 📧 [seuemail@email.com]  
-🔗 [linkedin.com/in/seuusuario]  
+🔗 [[linkedin.com/in/seuusuario](https://www.linkedin.com/in/lucaspsbh/)]  
 
