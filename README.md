@@ -5,7 +5,7 @@ Políticas de Segurança da Informação e Privacidade e documentos relacionados
 
 ## 📘 Documentos principais
 
-### `PGSI-BEARBEAR-v1`
+### `PGSI`
 Política Geral de Segurança da Informação estruturada em conformidade com:
 
 - ISO/IEC 27001 (requisitos para SGSI)
