@@ -1,13 +1,13 @@
 # BEAR BEAR-INFOSEC-PRIVACY-DATA PROTECTION
-Políticas de Segurança da Informação e Privacidade e documentos relacionados / Information Security and Privacy Politics and related documents.
+Políticas de Segurança da Informação e Privacidade e documentos relacionados / Information Security and Privacy Policys and related documents.
 
 ---
 
-## 📘 Documentos principais
+## 📘 Documentos principais / Main Documents:
 
 ### [PGSI-BEARBEAR](PGSI)
 
-Política Geral de Segurança da Informação estruturada em conformidade com:
+📄 Política Geral de Segurança da Informação estruturada em conformidade com / General Security Infomation Policy designed in compliance with:
 
 - ISO/IEC 27001 (requisitos para SGSI)
 - ISO/IEC 27002 (controles de segurança)
