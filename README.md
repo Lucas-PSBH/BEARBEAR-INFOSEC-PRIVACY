@@ -3,7 +3,7 @@ Políticas de Segurança da Informação e Privacidade e documentos relacionados
 
 ---
 
-# 🛡️ Política Geral de Segurança da Informação – BEAR BEAR  
+# 🛡️ Política de Segurança da Informação – BEAR BEAR  
 # 🛡️ Information Security Policy – BEAR BEAR
 
 Este repositório apresenta a **Política Geral de Segurança da Informação (PGSI)** elaborada para a **BEAR BEAR**, empresa fictícia do setor de roupas esportivas com tecnologia própria chamada **AARRGH®**.  
