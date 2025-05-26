@@ -16,7 +16,7 @@ The objective is to demonstrate practical knowledge of **ISO/IEC 27001**, **ISO/
 
 ## 📘 Documentos principais | Main Documents
 
-- 📄 [Política Geral de Segurança da Informação - BEAR BEAR](Política Geral de Segurança da Informação - BEAR BEAR/PGSI - BEAR BEAR.pdf)  
+- 📄 [Política Geral de Segurança da Informação - BEAR BEAR]([Política Geral de Segurança da Informação - BEAR BEAR/PGSI - BEAR BEAR.pdf](https://github.com/Lucas-PSBH/BEARBEAR-INFOSEC-PRIVACY/blob/main/Pol%C3%ADtica%20Geral%20de%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20-%20BEAR%20BEAR/PGSI%20-%20BEAR%20BEAR.pdf))  
 - 🧾 [PPDP-BEARBEAR](documentos/politica-privacidade-bearbear-v1.pdf)
 
 ---
