@@ -1,80 +1,89 @@
-# BEAR BEAR-INFOSEC-PRIVACY-DATA PROTECTION
-Políticas de Segurança da Informação e Privacidade e documentos relacionados / Information Security and Privacy Policys and related documents.
+# BEAR BEAR – Information Security & Data Protection Portfolio
+
+## 🇧🇷 Português
+
+Este repositório reúne documentos técnicos desenvolvidos como **projeto prático**
+para demonstrar a aplicação de boas práticas de **Segurança da Informação** e
+**Proteção de Dados Pessoais** em um contexto corporativo.
+
+Os documentos foram elaborados para a empresa **fictícia BEAR BEAR**, simulando
+um ambiente organizacional real, com foco em governança, conformidade regulatória
+e resposta a incidentes envolvendo dados pessoais.
+
+### 📂 Conteúdo do repositório
+
+- Política Geral de Segurança da Informação (PGSI)
+- Política de Privacidade e Proteção de Dados Pessoais (PDPP)
+- Plano de Resposta a Incidentes com Dados Pessoais
+- Modelos (drafts) de comunicação com:
+  - Autoridade Nacional de Proteção de Dados (ANPD)
+  - Titulares de dados pessoais
+  - Terceiros e parceiros
+
+### 📚 Normas e referências
+
+Os documentos foram elaborados com base nas boas práticas e diretrizes das
+seguintes normas e referenciais:
+
+- Lei Geral de Proteção de Dados Pessoais (LGPD)
+- ISO/IEC 27001 – Information Security Management Systems
+- ISO/IEC 27035 – Information Security Incident Management
+- ISO/IEC 27701 – Privacy Information Management System
+
+### ℹ️ Observações
+
+- Todos os documentos referem-se a uma empresa fictícia;
+- Nenhum dado real foi utilizado;
+- O material possui finalidade educacional e demonstrativa.
+
+### 👤 Autor
+
+Lucas Procópio  
+Atuação em Privacidade, Proteção de Dados e Segurança da Informação.
+
+🔗 LinkedIn: https://www.linkedin.com/in/lucaspsbh/
 
 ---
 
-# 🛡️ Política de Segurança da Informação – BEAR BEAR  
-# 🛡️ Information Security Policy – BEAR BEAR
+## 🇺🇸 English
 
-Este repositório apresenta a **Política Geral de Segurança da Informação (PGSI)** elaborada para a **BEAR BEAR**, empresa fictícia do setor de roupas esportivas com tecnologia própria chamada **AARRGH®**.  
-This repository contains the **Information Security Policy (PGSI)** developed for **BEAR BEAR**, a fictional sportswear company using proprietary technology called **AARRGH®**.
+This repository contains technical documents developed as a **practical project**
+to demonstrate the application of **Information Security** and **Personal Data
+Protection** best practices in a corporate context.
 
-O objetivo é demonstrar domínio prático das normas **ISO/IEC 27001**, **ISO/IEC 27002**, **LGPD** e boas práticas de governança.  
-The objective is to demonstrate practical knowledge of **ISO/IEC 27001**, **ISO/IEC 27002**, **LGPD** and governance best practices.
+The documents were created for the **fictional company BEAR BEAR**, simulating a
+real organizational environment, with a focus on governance, regulatory
+compliance, and personal data incident response.
 
----
+### 📂 Repository content
 
-## 📘 Documentos principais | Main Documents
+- Information Security Policy (ISMS / PGSI)
+- Privacy and Personal Data Protection Policy
+- Personal Data Incident Response Plan
+- Communication draft templates for:
+  - Brazilian Data Protection Authority (ANPD)
+  - Data subjects
+  - Third parties and partners
 
-- **Política Geral de Segurança da Informação (PGSI)**  
-  [📄 PDF](Política%20Geral%20de%20Segurança%20da%20Informação%20-%20BEAR%20BEAR/PGSI%20-%20BEAR%20BEAR.pdf) | [📝 DOCX](Política%20Geral%20de%20Segurança%20da%20Informação%20-%20BEAR%20BEAR/PGSI%20-%20BEAR%20BEAR.docx)
+### 📚 Standards and references
 
-- **Política de Privacidade e Proteção de Dados Pessoais (PPPD)**  
-  [📄 PDF](Política%20de%20Privacidade%20e%20Proteção%20de%20Dados%20-%20BEAR%20BEAR/PPPD%20-%20BEAR%20BEAR.pdf) | [📝 DOCX](Política%20de%20Privacidade%20e%20Proteção%20de%20Dados%20-%20BEAR%20BEAR/PPPD%20-%20BEAR%20BEAR.docx)
+The documents are based on best practices and guidelines from the following
+standards and frameworks:
 
+- Brazilian General Data Protection Law (LGPD)
+- ISO/IEC 27001 – Information Security Management Systems
+- ISO/IEC 27035 – Information Security Incident Management
+- ISO/IEC 27701 – Privacy Information Management System
 
-## 📚 Normas Complementares | Complementary Standards
+### ℹ️ Notes
 
-Documentos táticos e operacionais que detalham os controles e diretrizes da PGSI.  
-Tactical and operational documents detailing PGSI’s controls and guidelines.
+- All documents refer to a fictional company;
+- No real personal data is used;
+- Content is intended for educational and portfolio purposes only.
 
-- 🔐 Norma de Controle de Acesso / Access Control Standard  
-- 🗂️ Norma de Classificação da Informação / Information Classification Standard  
-- 💻 Norma de Uso de Ativos / Acceptable Use of Assets  
-- 🛠️ Norma de Continuidade de Negócio / Business Continuity  
-- 🚨 Norma de Gestão de Incidentes / Incident Management  
-- 📱 Norma de Acesso Remoto e BYOD / Remote Access and BYOD Standard  
-- 📧 Norma de Comunicação e E-mail / Communication and Email Policy
+### 👤 Author
 
-*(Em desenvolvimento / In progress)*
+Lucas Procópio  
+Privacy, Data Protection and Information Security professional.
 
----
-
-## 🧠 Glossário Técnico | Technical Glossary
-
-Consulte o glossário de termos usados nos documentos:  
-Refer to the glossary of terms used in the documents:  
-[`glossario/Glossario-BEARBEAR.md`](glossario/Glossario-BEARBEAR.md)
-
----
-
-## 🎯 Objetivo do Projeto | Project Purpose
-
-Este projeto integra meu portfólio técnico com foco em:  
-This project is part of my technical portfolio focused on:
-
-- Segurança da Informação / Information Security  
-- Privacidade e Proteção de Dados / Privacy and Data Protection  
-- Governança Corporativa / Corporate Governance  
-- Atuação como DPO / Role as a DPO (Data Protection Officer)
-
-Demonstra a capacidade de estruturar políticas e documentos conforme os principais referenciais legais e normativos.  
-It demonstrates the ability to structure policies and documents based on key legal and regulatory frameworks.
-
----
-
-## 📌 Observações | Notes
-
-Todos os conteúdos aqui apresentados são **fictícios e educacionais**, criados para fins de **formação, estudo e demonstração de competências profissionais**.  
-All materials presented are **fictional and educational**, created for **training, study, and professional skills demonstration**.  
-Nenhum dado sensível real ou informação de empresa existente foi utilizado.  
-No real sensitive data or actual company information was used.
-
----
-
-## 👤 Contato | Contact
-
-🔗 [linkedin.com/in/lucaspsbh](https://www.linkedin.com/in/lucaspsbh)
-
-
-
+🔗 LinkedIn: https://www.linkedin.com/in/lucaspsbh/
