@@ -1,17 +1,13 @@
-**Modelo de política de privacidade adaptada ao contexto da LGPD** 
+Modelo de plano de resposta a incidentes adaptado ao contexto da **LGPD.**
 
-**As informações referentes a empresa são fictícias e criadas pelo autor**
+As informações referentes a empresa BEAR BEAR são fictícias e criadas pelo autor. 
 
-**versão completa disponível nos formatos .docx e .pdf**
+Versão completa disponível nos formatos .docx e .pdf.
 
-
-
-
-
-                                            **POLÍTICA DE PRIVACIDADE E PROTEÇÃO DE DADOS**
+*** 
 
 
-
+**POLÍTICA DE PRIVACIDADE E PROTEÇÃO DE DADOS**
 
 
 **1. Apresentação**
