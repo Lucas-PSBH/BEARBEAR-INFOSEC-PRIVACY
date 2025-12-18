@@ -1,17 +1,10 @@
-**\*\*Modelo de plano de resposta a incidentes adaptado ao contexto da LGPD\*\*** 
+Modelo de plano de resposta a incidentes adaptado ao contexto da **LGPD.**
 
+As informações referentes a empresa BEAR BEAR são fictícias e criadas pelo autor. 
 
+Versão completa disponível nos formatos .docx e .pdf.
 
-**\*\*As informações referentes a empresa são fictícias e criadas pelo autor\*\***
-
-
-
-**\*\*versão completa disponível nos formatos .docx e .pdf\*\***
-
-
-
-                            
-
+*** 
 
 **PLANO DE RESPOSTA A INCIDENTES COM DADOS PESSOAIS**
 
