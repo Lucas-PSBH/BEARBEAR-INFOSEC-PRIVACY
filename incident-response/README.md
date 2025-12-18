@@ -11,6 +11,8 @@
 
 
                             
+
+
 **PLANO DE RESPOSTA A INCIDENTES COM DADOS PESSOAIS**
 
 
@@ -60,7 +62,7 @@ Para os fins deste documento, consideram-se os seguintes termos:
 * **TI / Segurança da Informação:** Detecção, contenção técnica, análise de causa raiz;
 * **Jurídico / Compliance:** Avaliação legal e regulatória;
 * **Gestão Executiva:** Decisão estratégica e alocação de recursos;
-* **Comunicação:**Comunicação interna e externa (quando aplicável).
+* **Comunicação:** Comunicação interna e externa (quando aplicável).
 
 
 
