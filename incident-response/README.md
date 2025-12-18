@@ -1,4 +1,4 @@
-**\*\*Modelo de política de privacidade adaptada ao contexto da LGPD\*\*** 
+**\*\*Modelo de plano de resposta a incidentes adaptado ao contexto da LGPD\*\*** 
 
 
 
