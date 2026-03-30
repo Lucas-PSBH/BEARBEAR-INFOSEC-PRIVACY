@@ -46,3 +46,5 @@ A PGSI serve como base para a implementação de controles técnicos e organizac
 Os documentos presentes nesta pasta devem ser interpretados de forma integrada, compondo o conjunto de práticas de governança da BEAR BEAR.
 
 Novas políticas, normas complementares e procedimentos poderão ser adicionados conforme a evolução dos processos internos e das necessidades de conformidade.
+
+As informações referentes a empresa BEAR BEAR são fictícias e criadas pelo autor. 
