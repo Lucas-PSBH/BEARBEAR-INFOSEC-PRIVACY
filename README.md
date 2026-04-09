@@ -2,88 +2,104 @@
 
 ## 🇧🇷 Português
 
-Este repositório reúne documentos técnicos desenvolvidos como **projeto prático**
-para demonstrar a aplicação de boas práticas de **Segurança da Informação** e
-**Proteção de Dados Pessoais** em um contexto corporativo.
+Este repositório apresenta um conjunto estruturado de artefatos de **Governança, Risco e Compliance (GRC)**, desenvolvidos para demonstrar a aplicação prática de controles de **Segurança da Informação** e **Proteção de Dados Pessoais** em conformidade com a **LGPD (Lei Geral de Proteção de Dados Pessoais)**.
 
-Os documentos foram elaborados para a empresa **fictícia BEAR BEAR**, simulando
-um ambiente organizacional real, com foco em governança, conformidade regulatória
-e resposta a incidentes envolvendo dados pessoais.
+Os documentos foram elaborados para a empresa **fictícia BEAR BEAR**, simulando um ambiente organizacional real, com foco em governança, conformidade regulatória e resposta a incidentes envolvendo dados pessoais.
 
-### 📂 Conteúdo do repositório
+## 🎯 Objetivo
 
-- Política Geral de Segurança da Informação (PGSI)
-- Política de Privacidade e Proteção de Dados Pessoais (PDPP)
-- Plano de Resposta a Incidentes com Dados Pessoais
-- Modelos (drafts) de comunicação com:
-  - Autoridade Nacional de Proteção de Dados (ANPD)
-  - Titulares de dados pessoais
-  - Terceiros e parceiros
+Demonstrar competências práticas em:
 
-### 📚 Normas e referências
+* Governança de Segurança da Informação
+* Proteção de Dados Pessoais (LGPD)
+* Gestão de Incidentes de Segurança
+* Estruturação de políticas, normas e controles organizacionais
 
-Os documentos foram elaborados com base nas boas práticas e diretrizes das
-seguintes normas e referenciais:
+## 📂 Estrutura do Repositório
 
-- Lei Geral de Proteção de Dados Pessoais (LGPD)
-- ISO/IEC 27001 – Information Security Management Systems
-- ISO/IEC 27035 – Information Security Incident Management
-- ISO/IEC 27701 – Privacy Information Management System
+O projeto inclui artefatos como:
 
-### ℹ️ Observações
+* Política Geral de Segurança da Informação (PGSI)
+* Política de Privacidade e Proteção de Dados Pessoais (PDPP)
+* Plano de Resposta a Incidentes com Dados Pessoais
+* Documentos técnicos e demais artefatos relacionados à governança e conformidade
 
-- Todos os documentos referem-se a uma empresa fictícia;
-- Nenhum dado real foi utilizado;
-- O material possui finalidade educacional e demonstrativa.
+> Este projeto possui natureza incremental e está em constante evolução, com a inclusão progressiva de novos documentos e melhorias estruturais.
 
-### 👤 Autor
+## 📚 Normas e referências
 
-Lucas Procópio  
-Atuação em Privacidade, Proteção de Dados e Segurança da Informação.
+Os documentos foram elaborados com base nas boas práticas e diretrizes das seguintes normas e referenciais:
+
+* Lei Geral de Proteção de Dados Pessoais (LGPD)
+* ISO/IEC 27001 – Information Security Management Systems
+* ISO/IEC 27035 – Information Security Incident Management
+* ISO/IEC 27701 – Privacy Information Management System
+
+## ℹ️ Observações
+
+* Todos os documentos referem-se a uma empresa fictícia;
+* Nenhum dado real foi utilizado;
+* O material possui finalidade educacional e demonstrativa.
+
+## 👤 Autor
+
+Lucas Procópio
+Profissional com foco em GRC, Privacidade, Proteção de Dados e Segurança da Informação.
 
 🔗 LinkedIn: https://www.linkedin.com/in/lucaspsbh/
+
+## 📄 Licença / License
+
+Este projeto está licenciado sob a Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+A reutilização é permitida mediante atribuição ao autor.
 
 ---
 
 ## 🇺🇸 English
 
-This repository contains technical documents developed as a **practical project**
-to demonstrate the application of **Information Security** and **Personal Data
-Protection** best practices in a corporate context.
+This repository presents a structured set of **Governance, Risk and Compliance (GRC)** artifacts developed to demonstrate the practical application of **Information Security** and **Personal Data Protection** controls in accordance with the **Brazilian General Data Protection Law (LGPD)**.
 
-The documents were created for the **fictional company BEAR BEAR**, simulating a
-real organizational environment, with a focus on governance, regulatory
-compliance, and personal data incident response.
+The documents were created for the **fictional company BEAR BEAR**, simulating a real organizational environment, with a focus on governance, regulatory compliance, and personal data incident response.
 
-### 📂 Repository content
+## 🎯 Objective
 
-- Information Security Policy (ISMS / PGSI)
-- Privacy and Personal Data Protection Policy
-- Personal Data Incident Response Plan
-- Communication draft templates for:
-  - Brazilian Data Protection Authority (ANPD)
-  - Data subjects
-  - Third parties and partners
+To demonstrate practical competencies in:
 
-### 📚 Standards and references
+* Information Security Governance
+* Personal Data Protection (LGPD)
+* Security Incident Management
+* Development of policies, standards and organizational controls
 
-The documents are based on best practices and guidelines from the following
-standards and frameworks:
+## 📂 Repository Structure
 
-- Brazilian General Data Protection Law (LGPD)
-- ISO/IEC 27001 – Information Security Management Systems
-- ISO/IEC 27035 – Information Security Incident Management
-- ISO/IEC 27701 – Privacy Information Management System
+The project includes artifacts such as:
 
-### ℹ️ Notes
+* Information Security Policy (ISMS / PGSI)
+* Privacy and Personal Data Protection Policy
+* Personal Data Incident Response Plan
+* Technical documents and additional governance and compliance artifacts
 
-- All documents refer to a fictional company;
-- No real personal data is used;
-- Content is intended for educational and portfolio purposes only.
+> This is an incremental project, continuously evolving with the addition of new documents and structural improvements.
 
-### 👤 Author
+## 📚 Standards and references
 
-Lucas Procópio  
-Privacy, Data Protection and Information Security professional.
+The documents are based on best practices and guidelines from the following standards and frameworks:
+
+* Brazilian General Data Protection Law (LGPD)
+* ISO/IEC 27001 – Information Security Management Systems
+* ISO/IEC 27035 – Information Security Incident Management
+* ISO/IEC 27701 – Privacy Information Management System
+
+## ℹ️ Notes
+
+* All documents refer to a fictional company;
+* No real personal data is used;
+* Content is intended for educational and portfolio purposes only.
+
+## 👤 Author
+
+Lucas Procópio
+GRC and Data Protection professional with focus on Privacy and Information Security.
 
 🔗 LinkedIn: https://www.linkedin.com/in/lucaspsbh/
